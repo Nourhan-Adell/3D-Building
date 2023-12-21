@@ -30,7 +30,7 @@ To get started with this project, follow these steps:
    ```
 2. Install dependencies:
    ```bash
-   npm init
+   npm install
    ```
 3. Start running the project:
    ```bash
