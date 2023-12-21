@@ -6,10 +6,6 @@ This project uses Three.js to create a simple 3D visualization of a building wit
 - [Features](#features)
 - [Prerequisites](#prerequisites)
 - [Getting Started](#getting-started)
-- [Usage](#usage)
-- [Customization](#customization)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
