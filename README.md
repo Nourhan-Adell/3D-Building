@@ -32,7 +32,7 @@ To get started with this project, follow these steps:
    ```bash
    git clone https://github.com/your-username/threejs-building.git
    ```
-2. download npm libraries:
+2. Install dependencies:
    ```bash
    npm init
    ```
